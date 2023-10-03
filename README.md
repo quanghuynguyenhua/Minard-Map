@@ -5,7 +5,7 @@
 <div align="center">
   
   <h3 align="center">Minard Map</h3>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Minard+Map" alt="Typing SVG" /></a>
   <a href="https://github.com/quanghuynguyenhua/Minard-Map/edit/main/README.md">
     <img src="viz1asset/minardMap.png" alt="Logo" width="900" height="500">
   </a>
@@ -130,6 +130,11 @@ Some toponomy have changed their names ever since.
     - [ ] French.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Here is a demo figure of the final map
+  <a href="https://github.com/quanghuynguyenhua/Minard-Map/blob/main/demo.png">
+    <img src="/demo.png" alt="Logo" >
+  </a>
 
 <!-- LICENSE -->
 ## License
