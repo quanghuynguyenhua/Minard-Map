@@ -3,23 +3,25 @@
 <!-- PROJECT IMAGE -->
 <br />
 <div align="center">
+  
+  <h3 align="center">Minard Map</h3>
+
   <a href="https://github.com/quanghuynguyenhua/Minard-Map/edit/main/README.md">
-    <img src="viz1asset/minardMap.png" alt="Logo" width="500" height="500">
+    <img src="viz1asset/minardMap.png" alt="Logo" width="900" height="500">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  
 
   <p align="center">
     Redesign a notable Minard's Russian campaign map using contemporary interactive methods
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/quanghuynguyenhua/Minard-Map"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=2b48caaabd0e44028724c5f109f3de97&fbclid=IwAR3ErA8p4iaar5dxYrx3VzXw_EV70W_ju3A6IzpUhhCDnP5XECZqUCJ6Y0I">View Reference of 3D plot</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/quanghuynguyenhua/Minard-Map/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -38,7 +40,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#prerequisites">References</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
