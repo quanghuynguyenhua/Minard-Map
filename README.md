@@ -44,10 +44,7 @@
         <li><a href="#facts">Amazing Facts</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -86,6 +83,7 @@ Use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section.
 
 * Python
+* Library: pandas, numpy, folium, ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,79 +97,39 @@ To get a local copy up and running follow these simple example steps.
 
 ### References
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Data is sourced from:
+* [https://vincentarelbundock.github.io/Rdatasets/articles/data.html](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
+Any analysis or commentary is the opinion of the author and should not be construed as advice.
 
-### Installation
+### Facts
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Originally created in 1869, Minard's map ingeniously combined geographical information, troop strength, temperature, and time into a single compelling narrative. His work has inspired generations of data analysts, cartographers, and historians.
+However, there are some <a href='https://chezvoila.com/blog/minard-map/'> facts</a> that may wow you.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. It was not contemporary when the map was designed. </br>
+Minard created the map 57 years after the event had happened.
+2. The march doesn’t start in France, but in then-Poland (now Lithuania).
+3. The map doesn’t show the main cause of the losses and doesn't mention Napoleon.
+4. Temperatures are in an old-fashioned scale of Reaumur, which vitally needs to convert to Celsius.
+5. <a href= "https://www.jla-data.net/eng/minard-map-tidygeocoder/?fbclid=IwAR1WeFzLaoNSOzvZviFDxIdk8YEPtRmZgjpLGpwgjR2qSRj7QSgne5B4Irg"> The names that Monsieur Minard used in his map proved difficult to use in modern geocoding use cases </a></br>
+Some toponomy have changed their names ever since.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- [x] Create a visual interactive map.
+- [x] Add topology and longitude and latitude.
+- [x] Add Ant-path line to demonstrate the direction of each groups.
+- [x] Add Circle Bubble to illustrate the volume of men who entered and retracted the field.
+- [x] Add Heatmap to show temperature with related date.
+- [x] Add Borderline and River GeoJson to clearly demonstrate that geographical condition did affect the loss of men.
+- [ ] Multi-language Support.
+    - [x] English.
+    - [ ] French.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -185,9 +143,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - quanghuynguyenhua@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/quanghuynguyenhua/Minard-Map](https://github.com/quanghuynguyenhua/Minard-Map)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,12 +158,14 @@ Use this space to list resources you find helpful and would like to give credit 
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+<!--
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
+-->
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Folium library](https://python-visualization.github.io/folium/latest)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
