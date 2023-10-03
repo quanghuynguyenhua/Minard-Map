@@ -40,8 +40,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">References</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#references">References</a></li>
+        <li><a href="#facts">Amazing Facts</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -58,18 +58,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+In the annals of cartographic history, few maps have achieved the level of acclaim and significance as Charles Joseph Minard's masterpiece— the "Napoleon Map." Crafted in 1869, this remarkable visualization transcends mere cartography; it is a profound narrative of one of history's most epic campaigns. As you embark on a journey through this iconic map, you will step back in time to witness the audacious rise and staggering fall of Napoleon Bonaparte's Grande Armée during the ill-fated Russian campaign of 1812.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+<a href= "https://en.wikipedia.org/wiki/Charles_Joseph_Minard">Charles Joseph Minard</a>, a French civil engineer, is celebrated not only for his technical prowess but also for his artistic sensibility. His Napoleon Map, often heralded as a pinnacle of information design, marries geography, statistics, and storytelling in a single, elegant composition. With a deft hand, Minard illustrates not just the geography of the campaign, but also its human toll, painting a vivid portrait of triumph and tragedy on a continental scale.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+In this introduction, I shall set the stage for your brief exploration of this cartographic masterpiece.
+This is an ambitious project that seeks to bridge the gap between historical cartography and contemporary interactive method. By reviving Minard's timeless work through innovative design and technology, I aim to make this historical narrative more accessible and engaging than ever before. This project represents a tribute to the past, a celebration of modern data visualization, and a testament to the enduring power of storytelling through data.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Here are a bunch of interesting things we should read :smile::
 
-Use the `BLANK_README.md` to get started.
+*https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mn </br>
+*https://www.edwardtufte.com/tufte/minard </br>
+*https://edspace.american.edu/visualwar/minard/ </br>
+*https://chezvoila.com/blog/minard-map/ </br>
+*https://thoughtbot.com/blog/analyzing-minards-visualization-of-napoleons-1812-march </br>
+*http://euclid.psych.yorku.ca/datavis/gallery/re-minard.php </br>
+*Here's some R code as well: https://rdrr.io/cran/HistData/man/Minard.html) </br>
+
+Use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,16 +83,9 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* Python
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +97,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### References
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
