@@ -70,7 +70,6 @@ Here are a bunch of interesting things we should read :smile::
 *https://chezvoila.com/blog/minard-map/ </br>
 *https://thoughtbot.com/blog/analyzing-minards-visualization-of-napoleons-1812-march </br>
 *http://euclid.psych.yorku.ca/datavis/gallery/re-minard.php </br>
-*Here's some R code as well: https://rdrr.io/cran/HistData/man/Minard.html) </br>
 
 Use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
 
@@ -84,6 +83,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * Python
 * Library: pandas, numpy, folium, ...
+* [![Folium][Folium.python]][Folium-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - quanghuynguyenhua@example.com
+quanghuynguyenhua@example.com
 
 Project Link: [https://github.com/quanghuynguyenhua/Minard-Map](https://github.com/quanghuynguyenhua/Minard-Map)
 
@@ -186,6 +186,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[Folium.python]: https://img.shields.io/pypi/pyversions/Folium?logo=Folium&label=Folium&link=https%3A%2F%2Fpython-visualization.github.io%2Ffolium%2Flatest%2F
+[Folium-url]: https://python-visualization.github.io/folium/latest/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
