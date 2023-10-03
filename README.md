@@ -5,10 +5,10 @@
 <div align="center">
   
   <h3 align="center">Minard Map</h3>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Minard+Map" alt="Typing SVG" /></a>
+  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Minard+Map" alt="Typing SVG" /></a>
   <a href="https://github.com/quanghuynguyenhua/Minard-Map/edit/main/README.md">
     <img src="viz1asset/minardMap.png" alt="Logo" width="900" height="500">
-  </a>
+  </a></h3>
 
   
 
