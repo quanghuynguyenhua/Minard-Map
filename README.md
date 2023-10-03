@@ -5,7 +5,7 @@
 <div align="center">
   
   <h3 align="center">Minard Map</h3>
-  <h3 align="center"><a href="https://github.com/quanghuynguyenhua/Minard-Map"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Minard+Map" alt="Typing SVG" /></a></h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&center=true&vCenter=true&width=435&lines=Redesign+a+notable+Minard's+map;Using+contemporary+interactive+method" alt="Typing SVG" /></a>
   <a href="https://github.com/quanghuynguyenhua/Minard-Map/edit/main/README.md">
     <img src="viz1asset/minardMap.png" alt="Logo" width="900" height="500">
   </a>
@@ -18,7 +18,7 @@
     <a href="https://github.com/quanghuynguyenhua/Minard-Map"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=2b48caaabd0e44028724c5f109f3de97&fbclid=IwAR3ErA8p4iaar5dxYrx3VzXw_EV70W_ju3A6IzpUhhCDnP5XECZqUCJ6Y0I">View Reference of 3D plot</a>
+    <a href="https://www.arcgis.com/home/item.html?id=2b48caaabd0e44028724c5f109f3de97">View Reference of 3D plot</a>
     ·
     <a href="https://github.com/quanghuynguyenhua/Minard-Map/issues">Report Bug</a>
     ·
