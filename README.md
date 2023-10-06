@@ -62,15 +62,6 @@ In the annals of cartographic history, few maps have achieved the level of accla
 In this introduction, I shall set the stage for your brief exploration of this cartographic masterpiece.
 This is an ambitious project that seeks to bridge the gap between historical cartography and contemporary interactive method. By reviving Minard's timeless work through innovative design and technology, I aim to make this historical narrative more accessible and engaging than ever before. This project represents a tribute to the past, a celebration of modern data visualization, and a testament to the enduring power of storytelling through data.
 
-Here are a bunch of interesting things we should read :smile::
-
-*https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003mn </br>
-*https://www.edwardtufte.com/tufte/minard </br>
-*https://edspace.american.edu/visualwar/minard/ </br>
-*https://chezvoila.com/blog/minard-map/ </br>
-*https://thoughtbot.com/blog/analyzing-minards-visualization-of-napoleons-1812-march </br>
-*http://euclid.psych.yorku.ca/datavis/gallery/re-minard.php </br>
-
 Use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
