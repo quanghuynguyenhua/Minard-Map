@@ -81,6 +81,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 Please use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
+There are draft of ideas included in the folder "image".
 
 ### References
 
