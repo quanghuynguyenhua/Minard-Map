@@ -126,7 +126,7 @@ Here is a demo figure of the final map
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+None.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
