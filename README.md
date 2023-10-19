@@ -62,8 +62,6 @@ In the annals of cartographic history, few maps have achieved the level of accla
 In this introduction, I shall set the stage for your brief exploration of this cartographic masterpiece.
 This is an ambitious project that seeks to bridge the gap between historical cartography and contemporary interactive method. By reviving Minard's timeless work through innovative design and technology, I aim to make this historical narrative more accessible and engaging than ever before. This project represents a tribute to the past, a celebration of modern data visualization, and a testament to the enduring power of storytelling through data.
 
-Use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -82,6 +80,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
+Please use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
 
 ### References
 
@@ -89,9 +88,9 @@ Data is sourced from:
 * [https://vincentarelbundock.github.io/Rdatasets/articles/data.html](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
 Any analysis or commentary is the opinion of the author and should not be construed as advice.
 
-### Facts
+### Interesting Facts
 
-_Originally created in 1869, Minard's map ingeniously combined geographical information, troop strength, temperature, and time into a single compelling narrative. His work has inspired generations of data analysts, cartographers, and historians.
+Originally created in 1869, Minard's map ingeniously combined geographical information, troop strength, temperature, and time into a single compelling narrative. His work has inspired generations of data analysts, cartographers, and historians.
 However, there are some <a href='https://chezvoila.com/blog/minard-map/'> facts</a> that may wow you.
 
 1. It was not contemporary when the map was designed. </br>
