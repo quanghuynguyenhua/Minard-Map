@@ -81,7 +81,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 Please use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
-There are draft of ideas included in the folder "image".
+You could also download file footprint.html to your local folder, open and view the result quickly.
+There are draft of ideas/notions included in the folder "image".
 
 ### References
 
