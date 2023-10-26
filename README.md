@@ -132,6 +132,7 @@ Black color shows the retreat direction.
 4. If you click on any circle bubble, it is actually a data point, showing number of men, general leader, and group number.
 5. The new map depicts the river dash-line, and a raining icon. You would recognize the volume of men drop significantly when passing any of these.
 6. The new map also shows boundary of countries, and a function to focus on this surveyed area. If you move the view too far, it will automatically jump back to the original state.
+7. The map has functions to turn on and off they layers you want. There is also a mini map on top left side.
 
 
 <!-- LICENSE -->
