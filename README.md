@@ -124,6 +124,15 @@ Here is a demo figure of the final map
     <img src="/demo.png" alt="Logo" >
   </a>
 
+1. Each different hot color portrays one advance group including Group 1 - Napoleon, Group 2 - Oudinot, and Group 3 - MacDonald.
+Black color shows the retreat direction.
+2. If you click on any green location mark, a city name will pop up.
+3. If you drag your mouse on any date, a temperature will show. Reminder this is a Celsius temperature, which is already converted from the original Reaumur in Minard's map.
+4. If you click on any circle bubble, it is actually a data point, showing number of men, general leader, and group number.
+5. The new map depicts the river dash-line, and a raining icon. You would recognize the volume of men drop significantly when passing any of these.
+6. The new map also shows boundary of countries, and a function to focus on this surveyed area. If you move the view too far, it will automatically jump back to the original state.
+
+
 <!-- LICENSE -->
 ## License
 
