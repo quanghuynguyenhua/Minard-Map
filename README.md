@@ -68,8 +68,6 @@ This is an ambitious project that seeks to bridge the gap between historical car
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section.
-
 * Python
 * Library: pandas, numpy, folium, ...
 * [![Folium][Folium.python]][Folium-url]
