@@ -59,7 +59,7 @@ In the annals of cartographic history, few maps have achieved the level of accla
 
 <a href= "https://en.wikipedia.org/wiki/Charles_Joseph_Minard">Charles Joseph Minard</a>, a French civil engineer, is celebrated not only for his technical prowess but also for his artistic sensibility. His Napoleon Map, often heralded as a pinnacle of information design, marries geography, statistics, and storytelling in a single, elegant composition. With a deft hand, Minard illustrates not just the geography of the campaign, but also its human toll, painting a vivid portrait of triumph and tragedy on a continental scale.
 
-In this introduction, I shall set the stage for your brief exploration of this cartographic masterpiece.
+In this introduction, I shall set the stage for the brief exploration of this cartographic masterpiece.
 This is an ambitious project that seeks to bridge the gap between historical cartography and contemporary interactive method. By reviving Minard's timeless work through innovative design and technology, I aim to make this historical narrative more accessible and engaging than ever before. This project represents a tribute to the past, a celebration of modern data visualization, and a testament to the enduring power of storytelling through data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
